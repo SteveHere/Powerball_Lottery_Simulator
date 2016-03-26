@@ -5,7 +5,6 @@
  *      Author: SteveHere
  *      TODO:
  *      - use pthread to multithread the program
- *      - put required.cpp into a header
  */
 #include "Required_Components.hpp"
 
